@@ -39,7 +39,6 @@
   <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
     <h3>Tools & Frameworks</h3>
-###
 
 <div align="left">
 
