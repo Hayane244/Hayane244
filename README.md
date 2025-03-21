@@ -16,8 +16,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-oliveira-925532257/)
 
 <!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=Hayane244&show_icons=true&theme=gotham)
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hayane244&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=6&theme=gotham&hide_border=false&order=2" height="130" alt="languages graph"  />
   
 <!-- Portfolio -->
