@@ -5,11 +5,11 @@
 </div>
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Hayane2!
+  Olá 👋, me chamo Hayane!
 
-  - 🌱 I’m currently studying Systems Analysis and Development at UNESC.
-
-  - 🔭 I am looking for my first job opportunity. My dream is to one day work with Java Backend.
+  - 🌱 Atualmente estou cursando Análise e Desenvolvimento de Sistemas na UNESC.
+    
+  - 🔭 Estou procurando minha primeira oportunidade de emprego. Meu sonho é um dia trabalhar como Desenvolvedora Backend.
 </p>
 
 <!-- Links -->
@@ -24,7 +24,7 @@
 
 <!-- GIF -->
 <p align="left">
-  <img aling="center" src="https://github.com/Hayane244/Hayane244/assets/77739311/sr-md8SzmrGqs6oD7i" alt="Imagem">
+  <img aling="center" src="https://github.com/user-attachments/assets/2ccc06a2-e4be-4a92-a9a6-b9e8953008ec" alt="Imagem">
 </p>
 
 ## 🔥 Skills
