@@ -27,7 +27,7 @@
 - [Lista de Jogos](https://github.com/Hayane244/dslist)
 
 <!-- GIF -->
-<p align="left">
+<!-- <p align="left">
   <img aling="center" src="https://github.com/user-attachments/assets/2ccc06a2-e4be-4a92-a9a6-b9e8953008ec" alt="Imagem">
 </p>
 
