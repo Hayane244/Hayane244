@@ -5,9 +5,9 @@
 </div>
 <!-- Presentation -->
 <p>
-  Olá 👋, me chamo Hayane!
+  Olá 👋, me chamo Hayane Caetano!
 
-  - 🌱 Atualmente estou cursando Análise e Desenvolvimento de Sistemas na UNESC.
+  - 🌱 Atualmente estou cursando Engenharia de Software na UniSatc e Análise e Desenvolvimento de Sistemas na UNESC.
     
   - 🔭 Estou procurando minha primeira oportunidade de emprego. Meu sonho é um dia trabalhar como Desenvolvedora Backend.
 </p>
