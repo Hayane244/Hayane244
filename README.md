@@ -24,9 +24,9 @@
   
 <!-- Portfolio -->
 ## Portfolio:
-- [Cardápio Digital](https://github.com/Hayane244/Cardapio.git)
-- [Desafio Itaú](https://github.com/Hayane244/desafio.itau)
-- [Lista de Jogos](https://github.com/Hayane244/dslist)
+- [Algoritmo - UniSatc](https://github.com/Hayane244/Programacao-para-Engenharia-UniSatc)
+- [HTML & CSS - curso em Vídeo](https://github.com/Hayane244/HTML-CSS_modulo_1)
+
 
 <!-- GIF -->
 <!-- <p align="left">
